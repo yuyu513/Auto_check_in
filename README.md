@@ -1,5 +1,4 @@
 # Auto_check_in
-for NTUST
 
 懶ㄉ起床寫ㄉ自動打卡程式
 Auto_main即可無腦使用
